@@ -1,22 +1,22 @@
 # Simple Calculator Program
 
-This is a simple calculator program written in Python. It allows the user to perform basic arithmetic operations including addition, subtraction, multiplication, and division.
+- This is a simple calculator program written in Python. It allows the user to perform basic arithmetic operations including addition, subtraction, multiplication, and division.
 
 ## Features
 
-Accepts user input for two numbers and an operator.
+- Accepts user input for two numbers and an operator.
 
 ## Supports the following operations:
 
-Addition (+)
+- Addition (+)
 
-Subtraction (-)
+- Subtraction (-)
 
-Multiplication (*)
+- Multiplication (*)
 
-Division (/)
+- Division (/)
 
-Handles division by zero with an appropriate error message.
+- Handles division by zero with an appropriate error message.
 
 ## How to Run the Program
 
@@ -30,15 +30,15 @@ Open a terminal or command prompt and navigate to the directory containing the s
 
 ## Run the script using the command:
 
-python calculator.py
+- python calculator.py
 
 ## Usage
 
-Enter the first number when prompted.
+1. Enter the first number when prompted.
 
-Enter the second number when prompted.
+2. Enter the second number when prompted.
 
-Choose an arithmetic operator (+, -, *, or /).
+3. Choose an arithmetic operator (+, -, *, or /).
 
 ## Example interaction:
 
@@ -51,11 +51,7 @@ Choose your operand, (e.g. +, -, /, *)? +
 
 If division by zero is attempted, the program will print an error message:
 
-Error: Division by zero is not allowed.
-
-## Customization
-
-You can extend this calculator by adding more operators or improving input validation.
+- Error: Division by zero is not allowed.
 
 ## License
 
